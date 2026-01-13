@@ -1,0 +1,15 @@
+# To get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# Please see the documentation for all configuration options:
+# https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+version: 2
+updates:
+  # Gitのsubmoduleに対する更新通知を設定する
+  - package-ecosystem: "gitsubmodule"
+    # "/"は、リポジトリのルートフォルダー。リポジトリルートの.gitmodulesを参照する
+    directory: "/"
+    schedule:
+      interval: "daily"
+      # timeは、timezoneなどの指定がないときはUTC。UTCなので、23:10で日本時間の8:10
+      # time: "23:10"
