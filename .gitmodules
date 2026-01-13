@@ -1,0 +1,18 @@
+[submodule "OpenSource/sqlite"]
+	path = OpenSource/sqlite
+	url = https://github.com/sqlite/sqlite
+[submodule "OpenSource/tinyxml2"]
+	path = OpenSource/tinyxml2
+	url = https://github.com/leethomason/tinyxml2
+[submodule "PublicRepo/dependabot_submodule_test01"]
+	path = PublicRepo/dependabot_submodule_test01
+	url = https://github.com/mitsuyasu-zt/dependabot_submodule_test01.git
+[submodule "PublicRepo/dependabot_submodule_test02"]
+	path = PublicRepo/dependabot_submodule_test02
+	url = https://github.com/mitsuyasu-zt/dependabot_submodule_test02.git
+[submodule "PublicRepo/dependabot_submodule_test03"]
+	path = PublicRepo/dependabot_submodule_test03
+	url = https://github.com/mitsuyasu-zt/dependabot_submodule_test03.git
+[submodule "PublicRepo/mitZt2_test01"]
+	path = PublicRepo/mitZt2_test01
+	url = https://github.com/mitsuyasu-zt2/mitZt2_test01.git
