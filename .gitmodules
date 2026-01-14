@@ -16,3 +16,6 @@
 [submodule "PublicRepo/mitZt2_test01"]
 	path = PublicRepo/mitZt2_test01
 	url = https://github.com/mitsuyasu-zt2/mitZt2_test01.git
+[submodule "PublicRepo/mitZt2_test02"]
+	path = PublicRepo/mitZt2_test02
+	url = https://github.com/mitsuyasu-zt2/mitZt2_test02.git
